@@ -6,7 +6,7 @@ Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bi
 
 ### MIT License
 
-Copyright (c) 2018 Source Foundry Authors
+Copyright (c) 2021 Mr.Line
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
