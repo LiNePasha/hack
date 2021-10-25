@@ -211,7 +211,7 @@ We would like to acknowledge and thank the [jsDelivr](https://www.jsdelivr.com/)
 
 ## License
 
-**Hack** work is &copy; 2018 Source Foundry Authors. MIT License
+**Hack** work is &copy; Source Foundry Authors. MIT License
 
 **Bitstream Vera Sans Mono** &copy; 2003 Bitstream, Inc. (with Reserved Font Names _Bitstream_ and _Vera_). Bitstream Vera License.
 
