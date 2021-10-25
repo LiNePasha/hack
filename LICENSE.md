@@ -1,6 +1,6 @@
-The work in the Hack project is Copyright 2018 Source Foundry Authors and licensed under the MIT License
+The work in the Hack project is Copyright Source Foundry Authors and licensed under the MIT License
 
-The work in the DejaVu project was committed to the public domain.
+The work in the lineHack project was committed to the public domain.
 
 Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bitstream Vera License with Reserved Font Names "Bitstream" and "Vera"
 
